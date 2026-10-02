@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Datenschutzerklärung</title>
+</head>
+<body>
+    <h1>Datenschutzerklärung</h1>
+
+    <p>Stand: 2. Oktober 2026</p>
+
+    <h2>1. Verantwortlicher</h2>
+    <p>
+        Christopher Dan Walter<br>
+        Bergwerkstrasse 37<br>
+        1818 Horgen Zuerich<br>
+        Schweiz<br>
+        E-Mail: christopher.dan.walter@gmail.com
+    </p>
+
+    <h2>2. Erhebung und Verarbeitung personenbezogener Daten</h2>
+    <p>
+        Diese App verarbeitet personenbezogene Daten nur, soweit dies
+        für die Bereitstellung und Funktion der App erforderlich ist.
+    </p>
+
+    <h2>3. Weitergabe an Dritte</h2>
+    <p>
+        Personenbezogene Daten werden nicht an Dritte weitergegeben,
+        sofern dies nicht zur Bereitstellung der App erforderlich ist
+        oder eine gesetzliche Verpflichtung besteht.
+    </p>
+
+    <h2>4. Kontakt</h2>
+    <p>
+        Bei Fragen zum Datenschutz können Sie uns unter
+        kontakt@example.com kontaktieren.
+    </p>
+</body>
+</html>
